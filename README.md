@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Samson-Olagbile
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL progressively and moving to advanced level
+- 👀 I’m a certified professional data analyst
+- 🌱 I’m currently proficient in Excel, Python, SQL, PowerBI and Tableau
 - 💞️ I’m looking to collaborate on projects in data analytics
 - 📫 How to reach me: samsonolagbile@gmail.com & +2347065287439
 
